@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WINBus</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_button">Button</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="goto_map">Enter</string>
+
+</resources>
